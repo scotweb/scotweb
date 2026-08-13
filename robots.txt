@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scotweb.github.io/scotweb/sitemap.xml
